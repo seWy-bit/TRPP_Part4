@@ -1,4 +1,4 @@
-branch1 change 1
+branch1 change 2
 
 # Domain-Driven Hexagon
 
